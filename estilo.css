@@ -1,0 +1,12 @@
+/*
+* esse é o comentário no css
+*/
+body{
+    background-color: burlywood;
+}
+
+h1{
+    color:crimson;
+    font-size: 25pt;
+    font-family:cursive; 
+}
